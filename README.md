@@ -1,4 +1,4 @@
-# C3005540_csc1034_project 3
+# uni project 3
 This project is an implmentation of pagerank
 
 To run the stochastic method
